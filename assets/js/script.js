@@ -60,11 +60,11 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "GeekPlay | HTML-5 Издательство";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            $("#favicon").attr("href", "assets/images/logo.png");
         }
         else {
             document.title = "Издательство HTML-5";
-            $("#favicon").attr("href", "assets/images/favhand.png");
+            $("#favicon").attr("href", "assets/images/logo.png");
         }
     });
 
