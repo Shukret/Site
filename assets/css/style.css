@@ -765,7 +765,8 @@ header .navbar ul li a:hover {
 .work2 {
   /* background: #010124; */
   /*background: linear-gradient(to bottom, #000031, #00002c);*/
-  background: rgb(255, 255, 255);
+  /*background: rgb(255, 255, 255);*/
+  background: #e5ecfb;
 }
 .work2 h2 {
   color: #fff;
