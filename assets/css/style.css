@@ -764,8 +764,8 @@ header .navbar ul li a:hover {
 /* work2 section starts */
 .work2 {
   /* background: #010124; */
-  background: linear-gradient(to bottom, #000031, #00002c);
-  /*background: rgb(0, 1, 43);*/
+  /*background: linear-gradient(to bottom, #000031, #00002c);*/
+  background: rgb(255, 255, 255);
 }
 .work2 h2 {
   color: #fff;
