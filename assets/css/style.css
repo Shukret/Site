@@ -762,26 +762,26 @@ header .navbar ul li a:hover {
 
 
 /* work2 section starts */
-.work2 {
+.review {
   /* background: #010124; */
   /*background: linear-gradient(to bottom, #000031, #00002c);*/
   /*background: rgb(255, 255, 255);*/
   background: #e5ecfb;
 }
-.work2 h2 {
+.review h2 {
   color: #fff;
   padding: 1rem;
 }
-.work2 .heading span {
+.review .heading span {
   color: rgb(255, 255, 255);
 }
-.work2 .box-container {
+.review .box-container {
   display: flex;
   flex-wrap: wrap;
   gap: 1.5rem;
   margin: 2rem;
 }
-.work2 .box-container .box {
+.review .box-container .box {
   flex: 1 1 30rem;
   border-radius: 0.5rem;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
@@ -789,12 +789,12 @@ header .navbar ul li a:hover {
   overflow: hidden;
   height: 30rem;
 }
-.work2 .box-container .box img {
+.review .box-container .box img {
   height: 100%;
   width: 100%;
   object-fit: cover;
 }
-.work2 .box-container .box .content {
+.review .box-container .box .content {
   height: 100%;
   width: 100%;
   position: absolute;
@@ -804,7 +804,7 @@ header .navbar ul li a:hover {
   display: flex;
   flex-direction: column;
 }
-.work2 .box-container .box .content .tag {
+.review .box-container .box .content .tag {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -814,28 +814,28 @@ header .navbar ul li a:hover {
   padding-left: 1rem;
   background: #ffd900;
 }
-.work2 .box-container .box .content .tag h3 {
+.review .box-container .box .content .tag h3 {
   font-size: 2rem;
 }
-.work2 .box-container .box:hover .content {
+.review .box-container .box:hover .content {
   top: 25%;
 }
-.work2 .desc {
+.review .desc {
   margin: 2rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
-.work2 .desc p {
+.review .desc p {
   font-size: 1.5rem;
 }
-.work2 .desc .btns {
+.review .desc .btns {
   display: flex;
   justify-content: space-between;
   width: 100%;
   margin-top: 2rem;
 }
-.work2 .desc .btns .btn {
+.review .desc .btns .btn {
   line-height: 0;
   display: inline;
   padding: 1.5rem 2.5rem;
@@ -845,14 +845,14 @@ header .navbar ul li a:hover {
   background: rgb(12, 12, 12);
   margin-right: 2rem;
 }
-.work2 .desc .btns .btn:hover {
+.review .desc .btns .btn:hover {
   background: #310ae0f5;
 }
-.work2 .viewall {
+.review .viewall {
   display: flex;
   justify-content: center;
 }
-.work2 .viewall .btn {
+.review .viewall .btn {
   position: relative;
   line-height: 0;
   padding: 1.6rem 3rem;
@@ -864,21 +864,21 @@ header .navbar ul li a:hover {
   box-shadow: 0px 5px 10px rgba(65, 84, 241, 0.4);
   text-align: center;
 }
-.work2 .viewall .btn span {
+.review .viewall .btn span {
   font-weight: 600;
   font-size: 1.7rem;
   font-family: "Nunito", sans-serif;
 }
-.work2 .viewall .btn i {
+.review .viewall .btn i {
   margin-left: 0.3rem;
   font-size: 1.5rem;
   transition: 0.3s;
 }
-.work2 .viewall .btn:hover {
+.review .viewall .btn:hover {
   background: #fff;
   color: #000;
 }
-.work2 .viewall .btn:hover i {
+.review .viewall .btn:hover i {
   transform: translateX(5px);
 }
 /* work2 section ends */
