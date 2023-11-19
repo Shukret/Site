@@ -565,7 +565,7 @@ header .navbar ul li a:hover {
   background: rgb(252, 252, 252);
 }
 .education .box-container .box:hover {
-  transform: scale(1.03);
+  transform: scale(0.5);
   box-shadow: 1rem 0.5rem 1.2rem rgba(0, 0, 0, 0.3);
 }
 .education .box-container .box .image {
