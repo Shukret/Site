@@ -779,7 +779,7 @@ header .navbar ul li a:hover {
 .experience .container {
   padding: 10px 40px;
   position: relative;
-  background-color: inherit;
+  background: rgb(255, 255, 255);
   width: 50%;
 }
 /*circles on timeline*/
